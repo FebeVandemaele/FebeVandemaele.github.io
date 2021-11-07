@@ -1,0 +1,11 @@
+.checklist{
+    list-style: none;
+}
+.checklist img{
+    height: 15px;
+    width: auto;
+}
+.checked img{
+    height: 15px;
+    width: 15px;
+}

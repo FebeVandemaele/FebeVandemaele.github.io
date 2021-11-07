@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,9 +36,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - Hogeschool VIVES/Documenten/Web development/Labo 6/voorbeeld background buiten border" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css2\css" />
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css2" />
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css2\css\.img" />
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css2\.img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,7 +58,11 @@
       <updated>1634714398269</updated>
       <workItem from="1634714399445" duration="825000" />
       <workItem from="1634716010704" duration="2340000" />
-      <workItem from="1635002463928" duration="3502000" />
+      <workItem from="1635002463928" duration="3731000" />
+      <workItem from="1635317303928" duration="6741000" />
+      <workItem from="1635324995582" duration="2126000" />
+      <workItem from="1636023055636" duration="3314000" />
+      <workItem from="1636217132480" duration="3024000" />
     </task>
     <servers />
   </component>
