@@ -1,0 +1,36 @@
+body{
+    margin:auto;
+    width:1200px;
+    padding-bottom: 30px;
+    font-family: "Segoe MDL2 Assets", sans-serif;
+    font-weight: bold;
+}
+article{
+    background-color: #e2e2da;
+    padding:10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.heading{
+    background-image: url(".images/header.jpg");
+    height: 150px;
+    color: white;
+    font-size: 65px;
+}
+nav{
+    background-color: #3c3c09;
+    color: limegreen;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+nav a{
+    font-size: 25px;
+    color:limegreen;
+    text-decoration: none;
+}
+article header{
+    font-size: 50px;
+    text-decoration: underline;
+}
