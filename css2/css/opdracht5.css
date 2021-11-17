@@ -17,5 +17,6 @@ a:hover {
 }
 a{
     background-image: url("img/link.jpg");
-    padding-left: 500px;
+    padding-left: 35px;
+    background-repeat: no-repeat;
 }

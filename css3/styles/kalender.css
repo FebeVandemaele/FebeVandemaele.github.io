@@ -1,0 +1,24 @@
+table{
+    border: solid 5px black;
+    border-spacing: 0;
+}
+.buiten-maand{
+    background-color: grey !important;
+}
+td:first-child,td:last-child{
+    background-color: rgb(255,220,220);
+}
+td{
+    border: dotted 1px black;
+}
+tr:nth-child(1) td{
+    color: rgb(200,190,240);
+    background-color: rgb(35,37,70);
+}
+.feestdag{
+    background-color: rgb(250,120,120);
+}
+
+.maand{
+    background-color: rgb(170,170,200);
+}

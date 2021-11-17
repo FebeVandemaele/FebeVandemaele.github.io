@@ -2,14 +2,6 @@
     list-style-image: url("img/unchecked.png");
 
 }
-.checklist img{
-    height: 15px;
-    width: auto;
-}
-.checked img{
-    height: 15px;
-    width: 15px;
-}
 .checked{
     list-style-image: url("img/checked.png");
 }
