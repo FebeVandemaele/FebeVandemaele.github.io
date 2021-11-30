@@ -1,0 +1,121 @@
+header, footer, section, article{
+    display: block;
+}
+body{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    height: 200px;
+    background-image: url("fotos/bgsky3.jpg");
+    text-align: center;
+    color: darkblue;
+}
+header img{
+    padding-right: 90px;
+    padding-bottom: 60px;
+    float: right;
+    z-index: 1;
+}
+header h1{
+    font-size: 300%;
+    font-weight: bold;
+    font-style: italic;
+}
+header h2{
+    font-size: 240%;
+    font-weight: bold;
+}
+aside{
+    width: 250px;
+    float: right;
+    background-color: #dddddd;
+    border: 1px solid #999999;
+}
+aside p{
+    color: #666666;
+    font-size: 90%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+aside h1{
+    color: white;
+    background-color: blue;
+    font-size: 120%;
+    text-align: center;
+}
+.main{
+    width: 700px;
+    float: left;
+}
+.introduction{
+    margin-top:20px;
+    display: inline-block;
+}
+.introduction p {
+    display: block;
+    background-color: white;
+    color: black;
+    float: right;
+    width: 540px;
+    margin: 0 20px 20px 0;
+    text-align: justify;
+}
+.introduction img{
+    display: block;
+    float: left;
+    margin: 0 20px 0 20px;
+}
+#blue{
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
+.gallery img{
+    width: 180px;
+    height: 180px;
+    padding: 10px;
+    border: 1px dotted white;
+    background-color: white;
+    margin: 10px;
+}
+.gallery{
+    background-color: #999999;
+}
+#rij1{
+    margin-left: 10px;
+    padding-top: 10px;
+}
+#rij2{
+    margin-left: 10px;
+}
+#rij3{
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+.bottom{
+    clear: both;
+    background-color: #666666;
+    color: white;
+    line-height: 2em;
+    display: inline-block;
+    width: 100%;
+}
+.bottom article{
+    padding-left: 120px;
+    float: left;
+}
+.bottom article a{
+    color: white;
+}
+.bottom article a:hover{
+    color: red;
+}
+footer{
+    clear: both;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
