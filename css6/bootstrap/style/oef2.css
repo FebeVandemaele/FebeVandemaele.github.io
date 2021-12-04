@@ -1,0 +1,23 @@
+.dark{
+    background-color: grey !important;
+}
+.col-sm-12{
+    height: 200px;
+    background-color: lightgray;
+    border: 5px solid white;
+}
+@media screen and (min-width: 992px){
+    .col-lg-3{
+        height: 200px;
+        background-color: lightgray;
+        border: 5px solid white;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .col-md-6{
+        height: 200px;
+        background-color: lightgray;
+        border: 5px solid white;
+    }
+}

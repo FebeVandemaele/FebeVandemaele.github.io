@@ -1,0 +1,10 @@
+.dark{
+    background-color: grey !important;
+}
+div[class*='col']{
+    height: 200px;
+    background-color: lightgray;
+    border: 5px solid white
+}
+
+
