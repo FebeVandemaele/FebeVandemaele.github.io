@@ -36,12 +36,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - Hogeschool VIVES/Documenten/Web development/Labo 10/beginsituatie_bootstrap4/beginsituatie_bootstrap4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css6/bootstrap/style" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css6\bootstrap\style" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css5\airbus" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css5\Images" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css3" />
@@ -82,6 +83,7 @@
       <workItem from="1638344882317" duration="6323000" />
       <workItem from="1638613488176" duration="2982000" />
       <workItem from="1638616549316" duration="28000" />
+      <workItem from="1638617185450" duration="692000" />
     </task>
     <servers />
   </component>
