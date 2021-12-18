@@ -1,0 +1,17 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 2.5em;
+    text-decoration: 2px solid black;
+    padding-bottom: 100%;
+    margin-bottom: 100%;
+}
+h2{
+    font-size: 150%;
+    margin-bottom: 100%;
+}
+header.respimg{
+    height: 50px;
+}

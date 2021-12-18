@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,23 +36,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - Hogeschool VIVES/Documenten/Web development/Labo 11/Beginsituatie" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - Hogeschool VIVES/Documenten/Web development/Labo 12/BeginSituatie_Kitchn" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css6\bootstrap\style" />
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css5\airbus" />
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css5\Images" />
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css3" />
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht3\styles" />
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht3\styles\images" />
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht2\styles" />
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht2" />
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht2\styles\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht3" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css_grid\grid_exercises" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css6\bootstrap" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css6\oef1\css" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css6\oef1\images" />
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css5\airbus\styles" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -84,7 +85,10 @@
       <workItem from="1638613488176" duration="2982000" />
       <workItem from="1638616549316" duration="28000" />
       <workItem from="1638617185450" duration="692000" />
-      <workItem from="1639067559056" duration="7071000" />
+      <workItem from="1639067559056" duration="7338000" />
+      <workItem from="1639554671063" duration="6670000" />
+      <workItem from="1639674922624" duration="11915000" />
+      <workItem from="1639731614781" duration="5033000" />
     </task>
     <servers />
   </component>
