@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -36,24 +36,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - Hogeschool VIVES/Documenten/Web development/Labo 12/BeginSituatie_Kitchn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javascript1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht3\styles" />
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript1" />
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript1\rekenmachine" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht3\styles\images" />
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht2\styles" />
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht2" />
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht2\styles\images" />
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefening_afrika\images" />
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht3\styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript1" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht3" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css_grid\grid_exercises" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css6\bootstrap" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css6\oef1\css" />
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css6\oef1\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -89,6 +91,19 @@
       <workItem from="1639554671063" duration="6670000" />
       <workItem from="1639674922624" duration="11915000" />
       <workItem from="1639731614781" duration="5033000" />
+      <workItem from="1640159544593" duration="5175000" />
+      <workItem from="1640606444030" duration="603000" />
+      <workItem from="1640702088523" duration="1698000" />
+      <workItem from="1642507224283" duration="706000" />
+      <workItem from="1642508701547" duration="717000" />
+      <workItem from="1642510696745" duration="1377000" />
+      <workItem from="1642517096248" duration="6428000" />
+      <workItem from="1642533147427" duration="13000" />
+      <workItem from="1642533190806" duration="4474000" />
+      <workItem from="1644661530165" duration="1679000" />
+      <workItem from="1644685001055" duration="1280000" />
+      <workItem from="1644686308813" duration="1504000" />
+      <workItem from="1644688291419" duration="121000" />
     </task>
     <servers />
   </component>

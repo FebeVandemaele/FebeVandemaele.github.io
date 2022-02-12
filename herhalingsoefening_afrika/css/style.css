@@ -1,0 +1,18 @@
+body{
+    background-image: url("../images/stripverloopokapi.jpg");
+}
+main, header, section{
+    display: block;
+}
+main{
+    width: 600px;
+    margin: auto;
+    background-color: #f0ecdc;
+}
+
+.header{
+    width: 100%;
+}
+.logo{
+    position: absolute;
+}

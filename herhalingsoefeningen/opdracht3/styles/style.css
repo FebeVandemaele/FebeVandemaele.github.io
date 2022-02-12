@@ -11,6 +11,8 @@ h1{
     text-transform: uppercase;
     font-size: 2.5em;
     border-bottom: 2px solid black;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
 }
 h2{
     font-size: 150%;
@@ -58,7 +60,8 @@ main{
 #mainHeader{
     background-image: url("images/headerimage.jpg");
     height: 500px;
-    background-position-x: 100%;
+    width: 100%;
+    background-size: cover;
     color: white;
     font-size: 40px;
     text-align: center;

@@ -21,7 +21,6 @@ header img{
     right: 90px;
     bottom:  60px;
     position: absolute;
-    z-index: 1;
 }
 header h1{
     font-size: 300%;
