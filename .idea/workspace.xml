@@ -36,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/javascript1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javascript2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -44,18 +44,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript2" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript1" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript1\rekenmachine" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht3\styles\images" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefening_afrika\images" />
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht3\styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript2\opdracht_arrays" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript1" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht3" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css_grid\grid_exercises" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css6\bootstrap" />
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css6\oef1\css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -104,6 +104,10 @@
       <workItem from="1644685001055" duration="1280000" />
       <workItem from="1644686308813" duration="1504000" />
       <workItem from="1644688291419" duration="121000" />
+      <workItem from="1645001882393" duration="7283000" />
+      <workItem from="1645015899079" duration="330000" />
+      <workItem from="1645191852840" duration="2425000" />
+      <workItem from="1646154959671" duration="1758000" />
     </task>
     <servers />
   </component>
