@@ -39,7 +39,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - Hogeschool VIVES/Documenten/Web development/Semester 2/Labo 3/demonstratie slider" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -111,6 +111,9 @@
       <workItem from="1646812354797" duration="9019000" />
       <workItem from="1646943352383" duration="4595000" />
       <workItem from="1646993593583" duration="2658000" />
+      <workItem from="1647419928559" duration="7915000" />
+      <workItem from="1647433498650" duration="1196000" />
+      <workItem from="1647609719775" duration="2281000" />
     </task>
     <servers />
   </component>

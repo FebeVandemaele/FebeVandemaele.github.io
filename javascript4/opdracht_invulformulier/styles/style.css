@@ -1,0 +1,12 @@
+.container{
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+input{
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+p{
+    margin: 2px;
+}
