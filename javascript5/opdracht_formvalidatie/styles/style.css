@@ -1,0 +1,9 @@
+.errorMessage{
+    color: red;
+}
+div{
+    margin: 5px;
+}
+input.invalid {
+    border: solid 1px red;
+}

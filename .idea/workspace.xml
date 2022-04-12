@@ -36,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - Hogeschool VIVES/Documenten/Web development/Semester 2/Labo 3/demonstratie slider" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javascript6" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
@@ -44,18 +44,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript6" />
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript6\opdracht_colorpicker" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript2" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript1" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript1\rekenmachine" />
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht3\styles\images" />
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefening_afrika\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript6\oefeningen_nodes\opdracht2\scripts" />
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript6\oefeningen_nodes\opdracht2\images" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript2\opdracht_arrays" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript1" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\herhalingsoefeningen\opdracht3" />
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css_grid\grid_exercises" />
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\css6\bootstrap" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -114,6 +114,11 @@
       <workItem from="1647419928559" duration="7915000" />
       <workItem from="1647433498650" duration="1196000" />
       <workItem from="1647609719775" duration="2281000" />
+      <workItem from="1648395909308" duration="3509000" />
+      <workItem from="1648452847772" duration="2755000" />
+      <workItem from="1648625003801" duration="1835000" />
+      <workItem from="1648626867623" duration="6474000" />
+      <workItem from="1649758530698" duration="18820000" />
     </task>
     <servers />
   </component>
