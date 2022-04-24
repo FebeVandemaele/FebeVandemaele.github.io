@@ -1,0 +1,43 @@
+#speelveld{
+    width: 850px;
+    background-color: #8f8361;
+    padding: 10px;
+}
+
+.gevonden{
+    visibility: hidden;
+}
+
+.kaart{
+    padding: 5px;
+    transform-style: preserve-3d;
+    height: 175px;
+    width: 200px;
+    display: inline-block;
+}
+
+.voorkant{
+    display: block;
+    backface-visibility: hidden;
+    transition: all 0.75s ease;
+}
+
+.achterkant{
+    backface-visibility: hidden;
+    display: block;
+    margin-top: -175px;
+    transition: all 0.75s ease;
+}
+
+.gedraaideKaart{
+    transform: rotateY(180deg);
+    transition: all 0.75s ease;
+}
+
+.juist{
+    border: 2px solid green;
+}
+
+.fout{
+    border: 2px solid red;
+}

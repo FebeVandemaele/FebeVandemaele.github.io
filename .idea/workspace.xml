@@ -36,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/javascript6" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Javascript7" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
@@ -44,11 +44,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript7\hitAnObject\images" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript6" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript6\opdracht_colorpicker" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript2" />
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript1" />
-      <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript1\rekenmachine" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\febev\Documents\Web development\FebeVandemaele.github.io\javascript6\oefeningen_nodes\opdracht2\scripts" />
@@ -120,6 +120,11 @@
       <workItem from="1648626867623" duration="6474000" />
       <workItem from="1649758530698" duration="18820000" />
       <workItem from="1649779828932" duration="28000" />
+      <workItem from="1650124001340" duration="1165000" />
+      <workItem from="1650437673936" duration="38000" />
+      <workItem from="1650440767864" duration="5215000" />
+      <workItem from="1650690144418" duration="2044000" />
+      <workItem from="1650731200532" duration="20984000" />
     </task>
     <servers />
   </component>
