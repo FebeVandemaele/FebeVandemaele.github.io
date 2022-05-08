@@ -1,4 +1,7 @@
+let kleuren = [];
+
 const setup = () => {
+    let btnClear = document.getElementById('btnClear');
     let sliderRed = document.getElementById('red');
     let sliderGreen = document.getElementById('green');
     let sliderBlue = document.getElementById('blue');
@@ -14,6 +17,29 @@ const setup = () => {
     sliderBlue.addEventListener('input', update);
 
     btnSave.addEventListener('click', save);
+    btnClear.addEventListener('click', clearLocalStorage);
+
+    readLocalStorage();
+}
+
+const readLocalStorage = () => {
+    if(localStorage.length > 0){
+        let storage = localStorage.getItem('kleuren');
+        let array = JSON.parse(storage);
+        for (let i = 0; i < array.length; i++) {
+            kleuren.push(array[i]);
+        }
+        console.log(kleuren)
+
+        for (let i = 0; i < kleuren.length; i++) {
+
+        }
+    }
+
+}
+
+const toonKleur = () => {
+
 }
 
 const update = () => {
@@ -36,6 +62,11 @@ const update = () => {
     colorBlok.style.backgroundColor = "rgb("+valueRed+", "+valueGreen+", "+valueBlue+")";
 }
 
+const clearLocalStorage = () => {
+    kleuren = [];
+    localStorage.clear();
+}
+
 const save = () => {
     let div = document.createElement("div");
     div.setAttribute("class", "copy");
@@ -50,12 +81,28 @@ const save = () => {
     btn.setAttribute("class", "x");
     div.appendChild(btn);
 
+    let kleur = {};
+    bewaarKleur(kleur);
+    kleuren.push(kleur);
+    let tekst = JSON.stringify(kleuren);
+    localStorage.setItem("kleuren",tekst);
+
     document.getElementsByClassName("copySwatch")[0].appendChild(div);
     btn.addEventListener("click", verwijder);
-    div.addEventListener('click', toonKleur);
+    div.addEventListener('click', toonGeselecteerdKleur);
 }
 
-const toonKleur = (event) => {
+const bewaarKleur = (kleur) => {
+    let rood = document.getElementById('red').value;
+    let groen = document.getElementById('green').value;
+    let blauw = document.getElementById('blue').value;
+
+    kleur.rood = rood;
+    kleur.groen = groen;
+    kleur.blauw = blauw;
+}
+
+const toonGeselecteerdKleur = (event) => {
     let colorBlok = document.getElementById('swatch');
     let geselecteerdKleur = event.target;
     let kleur = geselecteerdKleur.style.backgroundColor;

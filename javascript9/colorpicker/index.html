@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/style.css" type="text/css">
+
+    <title>opdracht colorpicker</title>
+</head>
+<body>
+<div class="colorPicker">
+    <div class="components">
+        <p>0 <input type="range" class="sliders" id="red" value="128" min="0" max="255"/> 255     Red <span id="txtRed"></span></p>
+        <p>0 <input type="range" class="sliders" id="green" value="255" min="0" max="255"/> 255     Green <span id="txtGreen"></span></p>
+        <p>0 <input type="range" class="sliders" id="blue" value="128" min="0" max="255"/> 255     Blue <span id="txtBlue"></span></p>
+    </div>
+    <div class="swatch" id="swatch"></div>
+    <input type="button" id="btnSave" value="Save"/>
+</div>
+<div class="copySwatch">
+
+</div>
+<input type="button" id="btnClear" value="Clear local storage"/>
+<script type="text/javascript" charset="utf-8" src="scripts/code.js"></script>
+</body>
+</html>
